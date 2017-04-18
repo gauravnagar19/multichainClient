@@ -1,2 +1,2 @@
 # multichainClient
-Miltichain CLient
+Miltichain Client
